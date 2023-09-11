@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_coding_setup/core/features/home/home_view.dart';
+import 'package:my_coding_setup/features/home/home_view.dart';
 import 'package:my_coding_setup/injection/injection_container.dart';
 import 'package:my_coding_setup/shared/app_theme.dart';
 
